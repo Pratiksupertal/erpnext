@@ -11,6 +11,7 @@ app_email = "info@erpnext.com"
 app_license = "GNU General Public License (v3)"
 source_link = "https://github.com/frappe/erpnext"
 # app_logo_url = '/assets/erpnext/images/erp-icon.svg'
+
 app_logo_url = '/assets/erpnext/images/erpnext-logo.png'
 
 

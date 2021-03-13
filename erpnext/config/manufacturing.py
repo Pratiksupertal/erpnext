@@ -160,21 +160,6 @@ def get_data():
 					"doctype": "BOM"
 				}
 			]
-		},
-		{
-			"label": _("Help"),
-			"icon": "fa fa-facetime-video",
-			"items": [
-				{
-					"type": "help",
-					"label": _("Bill of Materials"),
-					"youtube_id": "hDV0c1OeWLo"
-				},
-				{
-					"type": "help",
-					"label": _("Work Order"),
-					"youtube_id": "ZotgLyp2YFY"
-				},
-			]
 		}
+		
 	]
